@@ -33,7 +33,7 @@ To install the Fantasy Generator, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd fantasy-generator
+    cd AI_Fantasy_generator
     ```
 3. Install the required dependencies:
     ```sh
