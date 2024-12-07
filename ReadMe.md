@@ -2,6 +2,8 @@
 
 Welcome to the Fantasy Generator project! This project is part of the CSCI 4930 H01 Machine Learning course at the University of Colorado Denver.
 
+By Christian Mandujano Borjas
+
 ## Table of Contents
 
 - [Introduction](#introduction)
