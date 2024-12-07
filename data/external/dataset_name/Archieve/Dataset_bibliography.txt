@@ -1,0 +1,2 @@
+http://yanran.li/dailydialog
+https://github.com/google-research-datasets/Synthetic-Persona-Chat/tree/main
